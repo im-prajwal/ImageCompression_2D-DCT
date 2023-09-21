@@ -1,4 +1,4 @@
-# ImageCompression_2D-DCT
+# Image Compression using 2D-DCT
 Description:
 
 JPEG Compression Algorithm aims at reducing the size of image by removing image data that is not sensitive to the human eye while maintaining a reasonable image quality. It is mainly based on Two Dimensional-Discrete Cosine Transform (2D-DCT) and other steps like Chroma Sub-Sampling, Quantization, Run Length encoding and decoding, Huffman encoding and decoding, moving window based Block Processing. 
